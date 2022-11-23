@@ -32,7 +32,7 @@ header {
 }
 
 .banner {
-  background-image: url("./img/img-mission-background.jpeg");
+  background-image: url("./resources/img/img-mission-background.jpeg");
   text-align: center;
   position: relative;
   height: 700px;
@@ -91,7 +91,7 @@ header {
     justify-content: center;
     align-content: center;
     flex-direction: row;
-    background-image: url("./img/img-locations-background.jpeg");
+    background-image: url("./resources/img/img-locations-background.jpeg");
     background-size: fill;
     margin: 10px;
 }
